@@ -2,7 +2,8 @@
 ## Escenario para prácticas de la unidad 5 de Seguridad y Alta Disponibilidad. 
 
 **El escenario incluye**:
-- Kali
+- Kali atacante
+- Kali víctima para simular usuario
 - Metasploitable3
 - Servidor Ubuntu para ataques de contraseña y análisis de servicios
 
